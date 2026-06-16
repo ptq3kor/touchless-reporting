@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/dist/
+
+# SQLite temp files
+*.db-shm
+*.db-wal
+
+# Env / secrets
+.env
+.env.*
+
+# Editor
+.vscode/
+.idea/

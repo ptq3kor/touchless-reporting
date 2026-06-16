@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+agent-framework-core
+agent-framework-openai
+azure-identity
