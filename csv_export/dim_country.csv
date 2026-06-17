@@ -1,0 +1,12 @@
+country_code,country_name,subregion,area,currency_code
+DE,Germany,Western Europe,Europe,EUR
+FR,France,Western Europe,Europe,EUR
+HU,Hungary,Central Eastern Europe,Europe,HUF
+CZ,Czechia,Central Eastern Europe,Europe,CZK
+US,United States,North America,Americas,USD
+MX,Mexico,North America,Americas,MXN
+BR,Brazil,South America,Americas,BRL
+CN,China,Greater China,Asia Pacific,CNY
+IN,India,South Asia,Asia Pacific,INR
+JP,Japan,Northeast Asia,Asia Pacific,JPY
+SG,Singapore,Southeast Asia,Asia Pacific,SGD

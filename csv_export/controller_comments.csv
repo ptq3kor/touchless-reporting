@@ -1,0 +1,284 @@
+comment_id,period_id,entity_id,sector_code,measure_code,comment_text,author,language,created_at
+1,202401,1,BBM,TNS,Net sales of EUR 1219m (+6.9% vs PY) supported by new product ramp-ups; CF for FY confirmed.,M. Keller,EN,2024-01-08 17:12:00
+2,202401,6,BBM,TNS,"TNS at EUR 377m, up +7.5% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",K. Nagy,EN,2024-01-07 17:52:00
+3,202401,6,BBM,EBIT,"EBIT of EUR 20m (5.2% of TNS), +19.4% vs PY; favorable mix and fixed cost discipline.",K. Nagy,EN,2024-01-07 17:52:00
+4,202401,7,BBM,TNS,"Sales exceed prior year by +6.6% (EUR 265m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",P. Novak,EN,2024-01-08 13:00:00
+5,202401,7,BBM,EBIT,"EBIT margin at 4.7%, improving vs PY on productivity gains and lower material cost.",P. Novak,EN,2024-01-08 13:00:00
+6,202401,8,BBM,TNS,"TNS at EUR 286m, up +8.1% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",L. Moreau,EN,2024-01-07 13:21:00
+7,202401,8,BBM,EBIT,"EBIT margin at 4.6%, improving vs PY on productivity gains and lower material cost.",L. Moreau,EN,2024-01-07 13:21:00
+8,202401,9,BBM,TNS,"TNS at EUR 752m, up +7.1% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",R. Thompson,EN,2024-01-07 09:22:00
+9,202401,9,BBM,EBIT,"EBIT margin at 4.6%, improving vs PY on productivity gains and lower material cost.",R. Thompson,EN,2024-01-07 09:22:00
+10,202401,10,BBM,TNS,Net sales of EUR 273m (+5.9% vs PY) supported by new product ramp-ups; CF for FY confirmed.,D. Ramirez,EN,2024-01-06 10:29:00
+11,202401,10,BBM,EBIT,"EBIT margin at 4.9%, improving vs PY on productivity gains and lower material cost.",D. Ramirez,EN,2024-01-06 10:29:00
+12,202401,11,BBM,TNS,Net sales of EUR 190m (+5.2% vs PY) supported by new product ramp-ups; CF for FY confirmed.,F. Oliveira,EN,2024-01-04 09:30:00
+13,202401,12,BBM,TNS,Net sales of EUR 934m (+5.4% vs PY) supported by new product ramp-ups; CF for FY confirmed.,W. Chen,EN,2024-01-04 15:56:00
+14,202401,12,BBM,EBIT,"EBIT of EUR 45m (4.8% of TNS), +4.0% vs PY; favorable mix and fixed cost discipline.",W. Chen,EN,2024-01-04 15:56:00
+15,202401,13,BBM,TNS,"TNS at EUR 244m, up +7.2% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",A. Sharma,EN,2024-01-09 16:53:00
+16,202401,14,BBM,TNS,"Sales exceed prior year by +6.8% (EUR 438m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",T. Sato,EN,2024-01-05 12:55:00
+17,202401,14,BBM,EBIT,"EBIT margin at 4.7%, improving vs PY on productivity gains and lower material cost.",T. Sato,EN,2024-01-05 12:55:00
+18,202401,15,BBM,TNS,Net sales of EUR 160m (+5.8% vs PY) supported by new product ramp-ups; CF for FY confirmed.,G. Lim,EN,2024-01-03 12:37:00
+19,202401,15,BBM,EBIT,"EBIT of EUR 8m (4.8% of TNS), +10.5% vs PY; favorable mix and fixed cost discipline.",G. Lim,EN,2024-01-03 12:37:00
+20,202401,2,BBI,TNS,"Sales decline of -5.7% vs PY (EUR 321m); FX headwind approx. 1.5pp, underlying volume stable.",S. Brandt,EN,2024-01-08 08:04:00
+21,202401,2,BBI,EBIT,"EBIT at EUR 27m (8.5% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",S. Brandt,EN,2024-01-08 08:04:00
+22,202401,9,BBI,TNS,"Sales decline of -4.1% vs PY (EUR 100m); FX headwind approx. 1.5pp, underlying volume stable.",R. Thompson,EN,2024-01-04 16:16:00
+23,202401,9,BBI,EBIT,"EBIT margin 8.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",R. Thompson,EN,2024-01-04 16:16:00
+24,202401,12,BBI,TNS,"TNS at EUR 131m, -3.3% below PY due to softer market demand and customer destocking; countermeasures initiated.",W. Chen,EN,2024-01-09 08:05:00
+25,202401,12,BBI,EBIT,"EBIT of EUR 11m (8.6% of TNS), +4.3% vs PY; favorable mix and fixed cost discipline.",W. Chen,EN,2024-01-09 08:05:00
+26,202401,15,BBI,TNS,Net sales EUR 51m (-2.6% vs PY); weakness concentrated in Drive and Control Technology; pricing actions under review for H2.,G. Lim,EN,2024-01-03 17:43:00
+27,202401,15,BBI,EBIT,"EBIT margin 8.8%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2024-01-03 17:43:00
+28,202401,3,BBG,TNS,"TNS at EUR 690m, -4.3% below PY due to softer market demand and customer destocking; countermeasures initiated.",A. Vogel,EN,2024-01-07 09:13:00
+29,202401,3,BBG,EBIT,"EBIT at EUR 34m (4.9% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in BSH Home Appliances.",A. Vogel,EN,2024-01-07 09:13:00
+30,202401,4,BBG,TNS,"TNS at EUR 386m, -4.5% below PY due to softer market demand and customer destocking; countermeasures initiated.",C. Winter,EN,2024-01-05 17:15:00
+31,202401,4,BBG,EBIT,"EBIT of EUR 19m (4.9% of TNS), +8.4% vs PY; favorable mix and fixed cost discipline.",C. Winter,EN,2024-01-05 17:15:00
+32,202401,11,BBG,TNS,"TNS at EUR 109m, -1.7% below PY due to softer market demand and customer destocking; countermeasures initiated.",F. Oliveira,EN,2024-01-03 17:44:00
+33,202401,11,BBG,EBIT,"EBIT at EUR 5m (4.3% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in BSH Home Appliances.",F. Oliveira,EN,2024-01-03 17:44:00
+34,202401,12,BBG,TNS,Net sales EUR 320m (-2.5% vs PY); weakness concentrated in BSH Home Appliances; pricing actions under review for H2.,W. Chen,EN,2024-01-04 08:10:00
+35,202401,15,BBG,TNS,"Sales decline of -3.2% vs PY (EUR 100m); FX headwind approx. 1.5pp, underlying volume stable.",G. Lim,EN,2024-01-05 09:51:00
+36,202401,15,BBG,EBIT,"EBIT margin 4.3%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2024-01-05 09:51:00
+37,202401,1,BBE,TNS,Net sales of EUR 131m (+2.4% vs PY) supported by new product ramp-ups; CF for FY confirmed.,M. Keller,EN,2024-01-03 14:55:00
+38,202401,1,BBE,EBIT,"EBIT of EUR 8m (6.2% of TNS), +6.6% vs PY; favorable mix and fixed cost discipline.",M. Keller,EN,2024-01-03 14:55:00
+39,202401,5,BBE,TNS,Net sales of EUR 213m (+2.5% vs PY) supported by new product ramp-ups; CF for FY confirmed.,J. Hoffmann,EN,2024-01-07 10:24:00
+40,202401,5,BBE,EBIT,"EBIT margin at 6.3%, improving vs PY on productivity gains and lower material cost.",J. Hoffmann,EN,2024-01-07 10:24:00
+41,202401,8,BBE,TNS,"TNS at EUR 73m, up +5.4% vs PY, driven by strong order intake in Home Comfort and positive price effects.",L. Moreau,EN,2024-01-03 08:42:00
+42,202401,8,BBE,EBIT,"EBIT margin at 6.3%, improving vs PY on productivity gains and lower material cost.",L. Moreau,EN,2024-01-03 08:42:00
+43,202401,12,BBE,TNS,Net sales of EUR 102m (+2.2% vs PY) supported by new product ramp-ups; CF for FY confirmed.,W. Chen,EN,2024-01-06 11:20:00
+44,202401,13,BBE,TNS,"Sales exceed prior year by +5.4% (EUR 76m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",A. Sharma,EN,2024-01-07 14:11:00
+45,202401,13,BBE,EBIT,"EBIT margin at 6.3%, improving vs PY on productivity gains and lower material cost.",A. Sharma,EN,2024-01-07 14:11:00
+46,202401,15,BBE,TNS,"TNS at EUR 50m, up +2.9% vs PY, driven by strong order intake in Building Technologies and positive price effects.",G. Lim,EN,2024-01-07 08:46:00
+47,202401,15,BBE,EBIT,"EBIT of EUR 3m (6.4% of TNS), +1.9% vs PY; favorable mix and fixed cost discipline.",G. Lim,EN,2024-01-07 08:46:00
+48,202402,1,BBM,TNS,"TNS at EUR 1167m, up +4.0% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",M. Keller,EN,2024-02-05 13:58:00
+49,202402,1,BBM,EBIT,"EBIT at EUR 54m (4.6% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",M. Keller,EN,2024-02-05 13:58:00
+50,202402,6,BBM,TNS,Net sales of EUR 384m (+7.6% vs PY) supported by new product ramp-ups; CF for FY confirmed.,K. Nagy,EN,2024-02-05 11:16:00
+51,202402,7,BBM,TNS,"Sales exceed prior year by +5.2% (EUR 256m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",P. Novak,EN,2024-02-06 12:24:00
+52,202402,7,BBM,EBIT,"EBIT margin at 4.9%, improving vs PY on productivity gains and lower material cost.",P. Novak,EN,2024-02-06 12:24:00
+53,202402,8,BBM,TNS,Net sales of EUR 258m (+6.3% vs PY) supported by new product ramp-ups; CF for FY confirmed.,L. Moreau,EN,2024-02-03 14:30:00
+54,202402,8,BBM,EBIT,"EBIT margin at 4.8%, improving vs PY on productivity gains and lower material cost.",L. Moreau,EN,2024-02-03 14:30:00
+55,202402,9,BBM,TNS,"TNS at EUR 720m, up +7.0% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",R. Thompson,EN,2024-02-05 12:01:00
+56,202402,9,BBM,EBIT,"EBIT margin at 5.2%, improving vs PY on productivity gains and lower material cost.",R. Thompson,EN,2024-02-05 12:01:00
+57,202402,10,BBM,TNS,"TNS at EUR 260m, up +4.9% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",D. Ramirez,EN,2024-02-07 10:11:00
+58,202402,10,BBM,EBIT,"EBIT margin at 5.0%, improving vs PY on productivity gains and lower material cost.",D. Ramirez,EN,2024-02-07 10:11:00
+59,202402,11,BBM,TNS,Net sales of EUR 181m (+7.6% vs PY) supported by new product ramp-ups; CF for FY confirmed.,F. Oliveira,EN,2024-02-09 13:48:00
+60,202402,11,BBM,EBIT,"EBIT of EUR 9m (4.8% of TNS), +8.6% vs PY; favorable mix and fixed cost discipline.",F. Oliveira,EN,2024-02-09 13:48:00
+61,202402,12,BBM,TNS,"Sales exceed prior year by +7.1% (EUR 917m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",W. Chen,EN,2024-02-09 13:23:00
+62,202402,13,BBM,TNS,Net sales of EUR 246m (+8.6% vs PY) supported by new product ramp-ups; CF for FY confirmed.,A. Sharma,EN,2024-02-04 09:25:00
+63,202402,13,BBM,EBIT,"EBIT margin at 4.8%, improving vs PY on productivity gains and lower material cost.",A. Sharma,EN,2024-02-04 09:25:00
+64,202402,14,BBM,TNS,"TNS at EUR 427m, up +8.7% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",T. Sato,EN,2024-02-09 13:20:00
+65,202402,14,BBM,EBIT,"EBIT margin at 4.7%, improving vs PY on productivity gains and lower material cost.",T. Sato,EN,2024-02-09 13:20:00
+66,202402,15,BBM,TNS,"Sales exceed prior year by +4.3% (EUR 151m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",G. Lim,EN,2024-02-09 13:00:00
+67,202402,2,BBI,TNS,"Sales decline of -4.4% vs PY (EUR 297m); FX headwind approx. 1.5pp, underlying volume stable.",S. Brandt,EN,2024-02-09 11:46:00
+68,202402,2,BBI,EBIT,"EBIT at EUR 26m (8.8% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",S. Brandt,EN,2024-02-09 11:46:00
+69,202402,9,BBI,TNS,"Sales decline of -4.3% vs PY (EUR 92m); FX headwind approx. 1.5pp, underlying volume stable.",R. Thompson,EN,2024-02-04 16:32:00
+70,202402,12,BBI,TNS,"TNS at EUR 128m, -4.3% below PY due to softer market demand and customer destocking; countermeasures initiated.",W. Chen,EN,2024-02-07 11:37:00
+71,202402,15,BBI,TNS,Net sales EUR 41m (-11.5% vs PY); weakness concentrated in Drive and Control Technology; pricing actions under review for H2.,G. Lim,EN,2024-02-09 16:40:00
+72,202402,15,BBI,EBIT,"EBIT margin 9.2%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2024-02-09 16:40:00
+73,202402,3,BBG,TNS,Net sales EUR 671m (-5.6% vs PY); weakness concentrated in BSH Home Appliances; pricing actions under review for H2.,A. Vogel,EN,2024-02-06 16:37:00
+74,202402,3,BBG,EBIT,"EBIT at EUR 33m (4.9% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in BSH Home Appliances.",A. Vogel,EN,2024-02-06 16:37:00
+75,202402,4,BBG,TNS,Net sales EUR 370m (-3.4% vs PY); weakness concentrated in BSH Home Appliances; pricing actions under review for H2.,C. Winter,EN,2024-02-06 13:49:00
+76,202402,4,BBG,EBIT,"EBIT margin at 5.0%, improving vs PY on productivity gains and lower material cost.",C. Winter,EN,2024-02-06 13:49:00
+77,202402,11,BBG,TNS,"TNS at EUR 98m, -4.5% below PY due to softer market demand and customer destocking; countermeasures initiated.",F. Oliveira,EN,2024-02-05 12:46:00
+78,202402,11,BBG,EBIT,"EBIT of EUR 5m (4.9% of TNS), +7.5% vs PY; favorable mix and fixed cost discipline.",F. Oliveira,EN,2024-02-05 12:46:00
+79,202402,12,BBG,TNS,"Sales decline of -4.2% vs PY (EUR 298m); FX headwind approx. 1.5pp, underlying volume stable.",W. Chen,EN,2024-02-08 11:47:00
+80,202402,12,BBG,EBIT,"EBIT margin at 5.3%, improving vs PY on productivity gains and lower material cost.",W. Chen,EN,2024-02-08 11:47:00
+81,202402,15,BBG,TNS,"TNS at EUR 93m, -5.2% below PY due to softer market demand and customer destocking; countermeasures initiated.",G. Lim,EN,2024-02-09 09:27:00
+82,202402,15,BBG,EBIT,"EBIT at EUR 4m (4.2% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in BSH Home Appliances.",G. Lim,EN,2024-02-09 09:27:00
+83,202402,1,BBE,TNS,"Sales decline of -0.0% vs PY (EUR 124m); FX headwind approx. 1.5pp, underlying volume stable.",M. Keller,EN,2024-02-06 10:31:00
+84,202402,1,BBE,EBIT,"EBIT of EUR 8m (6.4% of TNS), +11.0% vs PY; favorable mix and fixed cost discipline.",M. Keller,EN,2024-02-06 10:31:00
+85,202402,5,BBE,TNS,"TNS at EUR 219m, up +5.6% vs PY, driven by strong order intake in Building Technologies and positive price effects.",J. Hoffmann,EN,2024-02-03 13:03:00
+86,202402,5,BBE,EBIT,"EBIT margin at 6.3%, improving vs PY on productivity gains and lower material cost.",J. Hoffmann,EN,2024-02-03 13:03:00
+87,202402,8,BBE,TNS,"Sales exceed prior year by +3.0% (EUR 67m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",L. Moreau,EN,2024-02-09 08:56:00
+88,202402,8,BBE,EBIT,"EBIT of EUR 4m (6.1% of TNS), +6.4% vs PY; favorable mix and fixed cost discipline.",L. Moreau,EN,2024-02-09 08:56:00
+89,202402,12,BBE,TNS,Net sales of EUR 97m (+1.6% vs PY) supported by new product ramp-ups; CF for FY confirmed.,W. Chen,EN,2024-02-07 15:30:00
+90,202402,12,BBE,EBIT,"EBIT at EUR 6m (6.2% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Home Comfort.",W. Chen,EN,2024-02-07 15:30:00
+91,202402,13,BBE,TNS,"Sales exceed prior year by +2.2% (EUR 69m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",A. Sharma,EN,2024-02-03 12:32:00
+92,202402,13,BBE,EBIT,"EBIT margin at 6.2%, improving vs PY on productivity gains and lower material cost.",A. Sharma,EN,2024-02-03 12:32:00
+93,202402,15,BBE,TNS,Net sales of EUR 48m (+6.2% vs PY) supported by new product ramp-ups; CF for FY confirmed.,G. Lim,EN,2024-02-09 17:01:00
+94,202402,15,BBE,EBIT,"EBIT margin at 6.3%, improving vs PY on productivity gains and lower material cost.",G. Lim,EN,2024-02-09 17:01:00
+95,202403,1,BBM,TNS,"Sales exceed prior year by +6.2% (EUR 1329m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",M. Keller,EN,2024-03-04 12:35:00
+96,202403,1,BBM,EBIT,"EBIT of EUR 62m (4.7% of TNS), +1.3% vs PY; favorable mix and fixed cost discipline.",M. Keller,EN,2024-03-04 12:35:00
+97,202403,6,BBM,TNS,"Sales exceed prior year by +6.7% (EUR 418m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",K. Nagy,EN,2024-03-05 09:49:00
+98,202403,6,BBM,EBIT,"EBIT of EUR 21m (4.9% of TNS), +11.6% vs PY; favorable mix and fixed cost discipline.",K. Nagy,EN,2024-03-05 09:49:00
+99,202403,7,BBM,TNS,Net sales of EUR 301m (+7.2% vs PY) supported by new product ramp-ups; CF for FY confirmed.,P. Novak,EN,2024-03-05 08:43:00
+100,202403,8,BBM,TNS,"Sales exceed prior year by +6.5% (EUR 293m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",L. Moreau,EN,2024-03-09 16:29:00
+101,202403,9,BBM,TNS,"TNS at EUR 795m, up +5.6% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",R. Thompson,EN,2024-03-09 13:54:00
+102,202403,9,BBM,EBIT,"EBIT margin at 4.8%, improving vs PY on productivity gains and lower material cost.",R. Thompson,EN,2024-03-09 13:54:00
+103,202403,10,BBM,TNS,"TNS at EUR 295m, up +8.9% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",D. Ramirez,EN,2024-03-07 17:53:00
+104,202403,10,BBM,EBIT,"EBIT of EUR 14m (4.8% of TNS), +11.5% vs PY; favorable mix and fixed cost discipline.",D. Ramirez,EN,2024-03-07 17:53:00
+105,202403,11,BBM,TNS,Net sales of EUR 202m (+6.2% vs PY) supported by new product ramp-ups; CF for FY confirmed.,F. Oliveira,EN,2024-03-08 11:29:00
+106,202403,12,BBM,TNS,Net sales of EUR 1035m (+4.7% vs PY) supported by new product ramp-ups; CF for FY confirmed.,W. Chen,EN,2024-03-03 09:25:00
+107,202403,12,BBM,EBIT,"EBIT of EUR 49m (4.7% of TNS), +2.0% vs PY; favorable mix and fixed cost discipline.",W. Chen,EN,2024-03-03 09:25:00
+108,202403,13,BBM,TNS,"Sales exceed prior year by +3.4% (EUR 257m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",A. Sharma,EN,2024-03-05 15:54:00
+109,202403,13,BBM,EBIT,"EBIT of EUR 12m (4.8% of TNS), +3.4% vs PY; favorable mix and fixed cost discipline.",A. Sharma,EN,2024-03-05 15:54:00
+110,202403,14,BBM,TNS,Net sales of EUR 466m (+6.4% vs PY) supported by new product ramp-ups; CF for FY confirmed.,T. Sato,EN,2024-03-03 17:44:00
+111,202403,14,BBM,EBIT,"EBIT of EUR 22m (4.6% of TNS), +4.2% vs PY; favorable mix and fixed cost discipline.",T. Sato,EN,2024-03-03 17:44:00
+112,202403,15,BBM,TNS,"Sales exceed prior year by +5.5% (EUR 170m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",G. Lim,EN,2024-03-05 09:57:00
+113,202403,15,BBM,EBIT,"EBIT of EUR 8m (4.9% of TNS), +9.5% vs PY; favorable mix and fixed cost discipline.",G. Lim,EN,2024-03-05 09:57:00
+114,202403,2,BBI,TNS,"TNS at EUR 322m, -6.7% below PY due to softer market demand and customer destocking; countermeasures initiated.",S. Brandt,EN,2024-03-09 16:19:00
+115,202403,2,BBI,EBIT,"EBIT margin 9.2%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",S. Brandt,EN,2024-03-09 16:19:00
+116,202403,9,BBI,TNS,"TNS at EUR 103m, -5.2% below PY due to softer market demand and customer destocking; countermeasures initiated.",R. Thompson,EN,2024-03-06 15:17:00
+117,202403,9,BBI,EBIT,"EBIT at EUR 9m (8.8% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",R. Thompson,EN,2024-03-06 15:17:00
+118,202403,12,BBI,TNS,"Sales decline of -7.4% vs PY (EUR 142m); FX headwind approx. 1.5pp, underlying volume stable.",W. Chen,EN,2024-03-09 15:17:00
+119,202403,12,BBI,EBIT,"EBIT margin 9.2%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",W. Chen,EN,2024-03-09 15:17:00
+120,202403,15,BBI,TNS,"Sales decline of -1.4% vs PY (EUR 53m); FX headwind approx. 1.5pp, underlying volume stable.",G. Lim,EN,2024-03-07 13:52:00
+121,202403,15,BBI,EBIT,"EBIT margin 8.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2024-03-07 13:52:00
+122,202403,3,BBG,TNS,"TNS at EUR 822m, up +5.1% vs PY, driven by strong order intake in BSH Home Appliances and positive price effects.",A. Vogel,EN,2024-03-03 14:18:00
+123,202403,3,BBG,EBIT,"EBIT of EUR 39m (4.7% of TNS), +6.8% vs PY; favorable mix and fixed cost discipline.",A. Vogel,EN,2024-03-03 14:18:00
+124,202403,4,BBG,TNS,Net sales EUR 416m (-1.0% vs PY); weakness concentrated in BSH Home Appliances; pricing actions under review for H2.,C. Winter,EN,2024-03-03 14:51:00
+125,202403,4,BBG,EBIT,"EBIT margin at 4.7%, improving vs PY on productivity gains and lower material cost.",C. Winter,EN,2024-03-03 14:51:00
+126,202403,11,BBG,TNS,"Sales exceed prior year by +2.1% (EUR 120m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",F. Oliveira,EN,2024-03-04 12:04:00
+127,202403,11,BBG,EBIT,"EBIT margin 4.7%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",F. Oliveira,EN,2024-03-04 12:04:00
+128,202403,12,BBG,TNS,"TNS at EUR 355m, up +2.7% vs PY, driven by strong order intake in BSH Home Appliances and positive price effects.",W. Chen,EN,2024-03-05 15:35:00
+129,202403,12,BBG,EBIT,"EBIT of EUR 18m (5.0% of TNS), +15.1% vs PY; favorable mix and fixed cost discipline.",W. Chen,EN,2024-03-05 15:35:00
+130,202403,15,BBG,TNS,"Sales decline of -1.9% vs PY (EUR 111m); FX headwind approx. 1.5pp, underlying volume stable.",G. Lim,EN,2024-03-05 11:11:00
+131,202403,15,BBG,EBIT,"EBIT at EUR 5m (4.9% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in BSH Home Appliances.",G. Lim,EN,2024-03-05 11:11:00
+132,202403,1,BBE,TNS,"TNS at EUR 142m, up +3.6% vs PY, driven by strong order intake in Home Comfort and positive price effects.",M. Keller,EN,2024-03-09 09:01:00
+133,202403,1,BBE,EBIT,"EBIT of EUR 9m (6.3% of TNS), +4.2% vs PY; favorable mix and fixed cost discipline.",M. Keller,EN,2024-03-09 09:01:00
+134,202403,5,BBE,TNS,"Sales exceed prior year by +5.6% (EUR 233m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",J. Hoffmann,EN,2024-03-08 09:50:00
+135,202403,5,BBE,EBIT,"EBIT at EUR 14m (5.8% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Building Technologies.",J. Hoffmann,EN,2024-03-08 09:50:00
+136,202403,8,BBE,TNS,"TNS at EUR 78m, up +5.1% vs PY, driven by strong order intake in Home Comfort and positive price effects.",L. Moreau,EN,2024-03-05 09:03:00
+137,202403,8,BBE,EBIT,"EBIT of EUR 5m (6.3% of TNS), +0.5% vs PY; favorable mix and fixed cost discipline.",L. Moreau,EN,2024-03-05 09:03:00
+138,202403,12,BBE,TNS,"Sales exceed prior year by +4.8% (EUR 109m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",W. Chen,EN,2024-03-03 09:41:00
+139,202403,13,BBE,TNS,Net sales of EUR 82m (+4.6% vs PY) supported by new product ramp-ups; CF for FY confirmed.,A. Sharma,EN,2024-03-06 12:44:00
+140,202403,13,BBE,EBIT,"EBIT margin at 6.5%, improving vs PY on productivity gains and lower material cost.",A. Sharma,EN,2024-03-06 12:44:00
+141,202403,15,BBE,TNS,"Sales exceed prior year by +4.7% (EUR 57m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",G. Lim,EN,2024-03-08 15:36:00
+142,202403,15,BBE,EBIT,"EBIT margin at 6.4%, improving vs PY on productivity gains and lower material cost.",G. Lim,EN,2024-03-08 15:36:00
+143,202404,1,BBM,TNS,Net sales of EUR 1222m (+5.4% vs PY) supported by new product ramp-ups; CF for FY confirmed.,M. Keller,EN,2024-04-04 11:49:00
+144,202404,1,BBM,EBIT,"EBIT of EUR 57m (4.6% of TNS), +0.9% vs PY; favorable mix and fixed cost discipline.",M. Keller,EN,2024-04-04 11:49:00
+145,202404,6,BBM,TNS,Net sales of EUR 380m (+6.2% vs PY) supported by new product ramp-ups; CF for FY confirmed.,K. Nagy,EN,2024-04-04 12:20:00
+146,202404,6,BBM,EBIT,"EBIT margin at 4.8%, improving vs PY on productivity gains and lower material cost.",K. Nagy,EN,2024-04-04 12:20:00
+147,202404,7,BBM,TNS,"TNS at EUR 266m, up +8.4% vs PY, driven by strong order intake in Chassis Systems Control and positive price effects.",P. Novak,EN,2024-04-09 15:47:00
+148,202404,7,BBM,EBIT,"EBIT of EUR 13m (4.7% of TNS), +6.9% vs PY; favorable mix and fixed cost discipline.",P. Novak,EN,2024-04-09 15:47:00
+149,202404,8,BBM,TNS,Net sales of EUR 268m (+6.4% vs PY) supported by new product ramp-ups; CF for FY confirmed.,L. Moreau,EN,2024-04-08 15:02:00
+150,202404,8,BBM,EBIT,"EBIT margin at 4.7%, improving vs PY on productivity gains and lower material cost.",L. Moreau,EN,2024-04-08 15:02:00
+151,202404,9,BBM,TNS,"TNS at EUR 747m, up +8.1% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",R. Thompson,EN,2024-04-06 12:46:00
+152,202404,9,BBM,EBIT,"EBIT margin at 4.9%, improving vs PY on productivity gains and lower material cost.",R. Thompson,EN,2024-04-06 12:46:00
+153,202404,10,BBM,TNS,"TNS at EUR 263m, up +4.8% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",D. Ramirez,EN,2024-04-04 13:17:00
+154,202404,10,BBM,EBIT,"EBIT margin at 4.8%, improving vs PY on productivity gains and lower material cost.",D. Ramirez,EN,2024-04-04 13:17:00
+155,202404,11,BBM,TNS,Net sales of EUR 184m (+5.5% vs PY) supported by new product ramp-ups; CF for FY confirmed.,F. Oliveira,EN,2024-04-03 10:24:00
+156,202404,12,BBM,TNS,Net sales of EUR 933m (+6.5% vs PY) supported by new product ramp-ups; CF for FY confirmed.,W. Chen,EN,2024-04-08 13:52:00
+157,202404,12,BBM,EBIT,"EBIT margin at 4.7%, improving vs PY on productivity gains and lower material cost.",W. Chen,EN,2024-04-08 13:52:00
+158,202404,13,BBM,TNS,"TNS at EUR 245m, up +8.2% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",A. Sharma,EN,2024-04-06 17:40:00
+159,202404,14,BBM,TNS,Net sales of EUR 427m (+5.5% vs PY) supported by new product ramp-ups; CF for FY confirmed.,T. Sato,EN,2024-04-03 15:49:00
+160,202404,14,BBM,EBIT,"EBIT margin at 4.8%, improving vs PY on productivity gains and lower material cost.",T. Sato,EN,2024-04-03 15:49:00
+161,202404,15,BBM,TNS,"TNS at EUR 159m, up +6.7% vs PY, driven by strong order intake in Mobility Aftermarket and positive price effects.",G. Lim,EN,2024-04-04 10:50:00
+162,202404,15,BBM,EBIT,"EBIT margin at 4.9%, improving vs PY on productivity gains and lower material cost.",G. Lim,EN,2024-04-04 10:50:00
+163,202404,2,BBI,TNS,"Sales decline of -3.7% vs PY (EUR 313m); FX headwind approx. 1.5pp, underlying volume stable.",S. Brandt,EN,2024-04-03 16:56:00
+164,202404,9,BBI,TNS,"Sales decline of -5.7% vs PY (EUR 93m); FX headwind approx. 1.5pp, underlying volume stable.",R. Thompson,EN,2024-04-04 11:52:00
+165,202404,12,BBI,TNS,Net sales EUR 127m (-10.1% vs PY); weakness concentrated in Drive and Control Technology; pricing actions under review for H2.,W. Chen,EN,2024-04-05 13:14:00
+166,202404,12,BBI,EBIT,"EBIT margin 8.6%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",W. Chen,EN,2024-04-05 13:14:00
+167,202404,15,BBI,TNS,"TNS at EUR 44m, -11.6% below PY due to softer market demand and customer destocking; countermeasures initiated.",G. Lim,EN,2024-04-09 08:35:00
+168,202404,15,BBI,EBIT,"EBIT at EUR 4m (9.0% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",G. Lim,EN,2024-04-09 08:35:00
+169,202404,3,BBG,TNS,Net sales EUR 713m (-0.9% vs PY); weakness concentrated in BSH Home Appliances; pricing actions under review for H2.,A. Vogel,EN,2024-04-08 11:32:00
+170,202404,4,BBG,TNS,"TNS at EUR 392m, up +0.8% vs PY, driven by strong order intake in BSH Home Appliances and positive price effects.",C. Winter,EN,2024-04-06 17:32:00
+171,202404,11,BBG,TNS,"TNS at EUR 103m, -0.2% below PY due to softer market demand and customer destocking; countermeasures initiated.",F. Oliveira,EN,2024-04-07 12:17:00
+172,202404,12,BBG,TNS,"TNS at EUR 306m, -4.2% below PY due to softer market demand and customer destocking; countermeasures initiated.",W. Chen,EN,2024-04-04 15:33:00
+173,202404,12,BBG,EBIT,"EBIT at EUR 15m (5.0% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in BSH Home Appliances.",W. Chen,EN,2024-04-04 15:33:00
+174,202404,15,BBG,TNS,Net sales EUR 99m (-4.8% vs PY); weakness concentrated in BSH Home Appliances; pricing actions under review for H2.,G. Lim,EN,2024-04-08 14:35:00
+175,202404,1,BBE,TNS,Net sales of EUR 130m (+4.2% vs PY) supported by new product ramp-ups; CF for FY confirmed.,M. Keller,EN,2024-04-07 12:06:00
+176,202404,5,BBE,TNS,"TNS at EUR 220m, up +4.4% vs PY, driven by strong order intake in Building Technologies and positive price effects.",J. Hoffmann,EN,2024-04-05 15:38:00
+177,202404,5,BBE,EBIT,"EBIT margin at 6.5%, improving vs PY on productivity gains and lower material cost.",J. Hoffmann,EN,2024-04-05 15:38:00
+178,202404,8,BBE,TNS,"TNS at EUR 69m, up +3.3% vs PY, driven by strong order intake in Home Comfort and positive price effects.",L. Moreau,EN,2024-04-05 09:22:00
+179,202404,12,BBE,TNS,"Sales exceed prior year by +1.4% (EUR 101m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",W. Chen,EN,2024-04-08 17:10:00
+180,202404,13,BBE,TNS,Net sales of EUR 73m (+3.7% vs PY) supported by new product ramp-ups; CF for FY confirmed.,A. Sharma,EN,2024-04-03 14:01:00
+181,202404,15,BBE,TNS,Net sales of EUR 51m (+5.3% vs PY) supported by new product ramp-ups; CF for FY confirmed.,G. Lim,EN,2024-04-09 10:15:00
+182,202404,15,BBE,EBIT,"EBIT at EUR 3m (5.8% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Building Technologies.",G. Lim,EN,2024-04-09 10:15:00
+183,202405,1,BBM,TNS,Net sales of EUR 1193m (+7.9% vs PY) supported by new product ramp-ups; CF for FY confirmed.,M. Keller,EN,2024-05-08 08:00:00
+184,202405,1,BBM,EBIT,"EBIT margin at 4.7%, improving vs PY on productivity gains and lower material cost.",M. Keller,EN,2024-05-08 08:00:00
+185,202405,6,BBM,TNS,Net sales of EUR 352m (+7.0% vs PY) supported by new product ramp-ups; CF for FY confirmed.,K. Nagy,EN,2024-05-07 08:26:00
+186,202405,6,BBM,EBIT,"EBIT of EUR 17m (4.8% of TNS), +8.0% vs PY; favorable mix and fixed cost discipline.",K. Nagy,EN,2024-05-07 08:26:00
+187,202405,7,BBM,TNS,"Sales exceed prior year by +8.6% (EUR 258m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",P. Novak,EN,2024-05-08 12:27:00
+188,202405,7,BBM,EBIT,"EBIT of EUR 13m (4.9% of TNS), +14.0% vs PY; favorable mix and fixed cost discipline.",P. Novak,EN,2024-05-08 12:27:00
+189,202405,8,BBM,TNS,"TNS at EUR 262m, up +5.6% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",L. Moreau,EN,2024-05-03 17:09:00
+190,202405,8,BBM,EBIT,"EBIT of EUR 13m (4.9% of TNS), +8.1% vs PY; favorable mix and fixed cost discipline.",L. Moreau,EN,2024-05-03 17:09:00
+191,202405,9,BBM,TNS,Net sales of EUR 713m (+5.0% vs PY) supported by new product ramp-ups; CF for FY confirmed.,R. Thompson,EN,2024-05-03 10:32:00
+192,202405,9,BBM,EBIT,"EBIT of EUR 35m (4.9% of TNS), +5.4% vs PY; favorable mix and fixed cost discipline.",R. Thompson,EN,2024-05-03 10:32:00
+193,202405,10,BBM,TNS,Net sales of EUR 259m (+3.9% vs PY) supported by new product ramp-ups; CF for FY confirmed.,D. Ramirez,EN,2024-05-04 13:52:00
+194,202405,11,BBM,TNS,"TNS at EUR 178m, up +4.9% vs PY, driven by strong order intake in Automotive Electronics and positive price effects.",F. Oliveira,EN,2024-05-09 10:45:00
+195,202405,11,BBM,EBIT,"EBIT margin at 4.9%, improving vs PY on productivity gains and lower material cost.",F. Oliveira,EN,2024-05-09 10:45:00
+196,202405,12,BBM,TNS,"Sales exceed prior year by +7.6% (EUR 948m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",W. Chen,EN,2024-05-04 11:19:00
+197,202405,12,BBM,EBIT,"EBIT of EUR 45m (4.8% of TNS), +8.3% vs PY; favorable mix and fixed cost discipline.",W. Chen,EN,2024-05-04 11:19:00
+198,202405,13,BBM,TNS,"TNS at EUR 237m, up +4.6% vs PY, driven by strong order intake in Powertrain Solutions and positive price effects.",A. Sharma,EN,2024-05-09 14:54:00
+199,202405,13,BBM,EBIT,"EBIT at EUR 11m (4.6% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",A. Sharma,EN,2024-05-09 14:54:00
+200,202405,14,BBM,TNS,Net sales of EUR 420m (+3.6% vs PY) supported by new product ramp-ups; CF for FY confirmed.,T. Sato,EN,2024-05-05 16:37:00
+201,202405,14,BBM,EBIT,"EBIT of EUR 21m (5.1% of TNS), +9.7% vs PY; favorable mix and fixed cost discipline.",T. Sato,EN,2024-05-05 16:37:00
+202,202405,15,BBM,TNS,Net sales of EUR 152m (+3.7% vs PY) supported by new product ramp-ups; CF for FY confirmed.,G. Lim,EN,2024-05-08 10:13:00
+203,202405,2,BBI,TNS,Net sales EUR 300m (-7.4% vs PY); weakness concentrated in Drive and Control Technology; pricing actions under review for H2.,S. Brandt,EN,2024-05-04 10:32:00
+204,202405,2,BBI,EBIT,"EBIT margin 9.2%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",S. Brandt,EN,2024-05-04 10:32:00
+205,202405,9,BBI,TNS,Net sales EUR 92m (-5.6% vs PY); weakness concentrated in Drive and Control Technology; pricing actions under review for H2.,R. Thompson,EN,2024-05-03 17:37:00
+206,202405,9,BBI,EBIT,"EBIT at EUR 8m (8.8% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",R. Thompson,EN,2024-05-03 17:37:00
+207,202405,12,BBI,TNS,Net sales EUR 128m (-6.5% vs PY); weakness concentrated in Drive and Control Technology; pricing actions under review for H2.,W. Chen,EN,2024-05-07 09:49:00
+208,202405,12,BBI,EBIT,"EBIT at EUR 11m (8.7% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",W. Chen,EN,2024-05-07 09:49:00
+209,202405,15,BBI,TNS,"TNS at EUR 48m, -3.0% below PY due to softer market demand and customer destocking; countermeasures initiated.",G. Lim,EN,2024-05-03 11:41:00
+210,202405,15,BBI,EBIT,"EBIT margin 7.9%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2024-05-03 11:41:00
+211,202405,3,BBG,TNS,"Sales exceed prior year by +3.2% (EUR 768m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",A. Vogel,EN,2024-05-08 10:05:00
+212,202405,3,BBG,EBIT,"EBIT margin at 5.1%, improving vs PY on productivity gains and lower material cost.",A. Vogel,EN,2024-05-08 10:05:00
+213,202405,4,BBG,TNS,"Sales exceed prior year by +1.8% (EUR 394m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",C. Winter,EN,2024-05-09 12:16:00
+214,202405,4,BBG,EBIT,"EBIT margin at 4.7%, improving vs PY on productivity gains and lower material cost.",C. Winter,EN,2024-05-09 12:16:00
+215,202405,11,BBG,TNS,"Sales decline of -1.6% vs PY (EUR 105m); FX headwind approx. 1.5pp, underlying volume stable.",F. Oliveira,EN,2024-05-03 08:55:00
+216,202405,12,BBG,TNS,"Sales decline of -0.8% vs PY (EUR 308m); FX headwind approx. 1.5pp, underlying volume stable.",W. Chen,EN,2024-05-07 17:31:00
+217,202405,15,BBG,TNS,"Sales decline of -1.7% vs PY (EUR 98m); FX headwind approx. 1.5pp, underlying volume stable.",G. Lim,EN,2024-05-04 10:42:00
+218,202405,15,BBG,EBIT,"EBIT margin 4.8%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2024-05-04 10:42:00
+219,202405,1,BBE,TNS,"Sales exceed prior year by +6.5% (EUR 132m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",M. Keller,EN,2024-05-04 08:13:00
+220,202405,1,BBE,EBIT,"EBIT margin at 6.2%, improving vs PY on productivity gains and lower material cost.",M. Keller,EN,2024-05-04 08:13:00
+221,202405,5,BBE,TNS,"TNS at EUR 214m, up +2.8% vs PY, driven by strong order intake in Building Technologies and positive price effects.",J. Hoffmann,EN,2024-05-08 08:33:00
+222,202405,8,BBE,TNS,"TNS at EUR 67m, up +2.0% vs PY, driven by strong order intake in Home Comfort and positive price effects.",L. Moreau,EN,2024-05-06 12:54:00
+223,202405,8,BBE,EBIT,"EBIT at EUR 4m (6.0% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Home Comfort.",L. Moreau,EN,2024-05-06 12:54:00
+224,202405,12,BBE,TNS,Net sales of EUR 100m (+3.0% vs PY) supported by new product ramp-ups; CF for FY confirmed.,W. Chen,EN,2024-05-09 08:25:00
+225,202405,12,BBE,EBIT,"EBIT of EUR 6m (6.3% of TNS), +10.4% vs PY; favorable mix and fixed cost discipline.",W. Chen,EN,2024-05-09 08:25:00
+226,202405,13,BBE,TNS,"TNS at EUR 71m, up +1.1% vs PY, driven by strong order intake in Home Comfort and positive price effects.",A. Sharma,EN,2024-05-03 15:31:00
+227,202405,15,BBE,TNS,"Sales exceed prior year by +4.7% (EUR 50m); volume recovery in key accounts, FX tailwind approx. 0.8pp.",G. Lim,EN,2024-05-08 14:30:00
+228,202310,1,BBM,EBIT,"EBIT margin 5.0%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",M. Keller,EN,2023-10-05 17:33:00
+229,202310,9,BBM,EBIT,"EBIT margin 4.9%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",R. Thompson,EN,2023-10-07 08:11:00
+230,202310,10,BBM,EBIT,"EBIT margin 4.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",D. Ramirez,EN,2023-10-09 08:20:00
+231,202310,13,BBM,EBIT,"EBIT at EUR 12m (5.1% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",A. Sharma,EN,2023-10-07 09:09:00
+232,202310,14,BBM,EBIT,"EBIT margin 4.8%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",T. Sato,EN,2023-10-06 17:40:00
+233,202310,15,BBM,EBIT,"EBIT margin 4.7%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2023-10-07 08:56:00
+234,202310,2,BBI,EBIT,"EBIT margin 9.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",S. Brandt,EN,2023-10-04 10:16:00
+235,202310,15,BBI,EBIT,"EBIT at EUR 5m (9.0% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",G. Lim,EN,2023-10-04 08:05:00
+236,202310,3,BBG,EBIT,"EBIT margin 5.3%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",A. Vogel,EN,2023-10-03 09:28:00
+237,202310,4,BBG,EBIT,"EBIT margin 4.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",C. Winter,EN,2023-10-05 14:29:00
+238,202310,11,BBG,EBIT,"EBIT margin 4.9%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",F. Oliveira,EN,2023-10-06 11:23:00
+239,202310,12,BBG,EBIT,"EBIT at EUR 17m (5.0% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in BSH Home Appliances.",W. Chen,EN,2023-10-06 12:55:00
+240,202310,15,BBG,EBIT,"EBIT margin 5.1%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2023-10-09 15:07:00
+241,202310,5,BBE,EBIT,"EBIT at EUR 13m (5.9% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Building Technologies.",J. Hoffmann,EN,2023-10-08 16:03:00
+242,202310,8,BBE,EBIT,"EBIT at EUR 4m (6.2% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Home Comfort.",L. Moreau,EN,2023-10-05 17:54:00
+243,202310,12,BBE,EBIT,"EBIT at EUR 6m (5.7% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Home Comfort.",W. Chen,EN,2023-10-03 16:13:00
+244,202310,15,BBE,EBIT,"EBIT at EUR 3m (5.8% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Building Technologies.",G. Lim,EN,2023-10-09 13:45:00
+245,202311,1,BBM,EBIT,"EBIT at EUR 53m (4.7% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",M. Keller,EN,2023-11-09 11:39:00
+246,202311,7,BBM,EBIT,"EBIT at EUR 12m (4.7% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Chassis Systems Control.",P. Novak,EN,2023-11-03 11:48:00
+247,202311,8,BBM,EBIT,"EBIT at EUR 12m (4.6% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",L. Moreau,EN,2023-11-03 11:28:00
+248,202311,12,BBM,EBIT,"EBIT margin 4.8%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",W. Chen,EN,2023-11-07 15:44:00
+249,202311,13,BBM,EBIT,"EBIT at EUR 11m (4.9% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",A. Sharma,EN,2023-11-04 10:44:00
+250,202311,14,BBM,EBIT,"EBIT at EUR 19m (4.7% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",T. Sato,EN,2023-11-09 15:33:00
+251,202311,2,BBI,EBIT,"EBIT at EUR 31m (9.5% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",S. Brandt,EN,2023-11-08 17:54:00
+252,202311,9,BBI,EBIT,"EBIT margin 9.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",R. Thompson,EN,2023-11-09 17:06:00
+253,202311,15,BBI,EBIT,"EBIT at EUR 4m (9.1% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",G. Lim,EN,2023-11-09 15:35:00
+254,202311,3,BBG,EBIT,"EBIT margin 4.8%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",A. Vogel,EN,2023-11-03 11:34:00
+255,202311,4,BBG,EBIT,"EBIT margin 4.7%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",C. Winter,EN,2023-11-07 09:58:00
+256,202311,11,BBG,EBIT,"EBIT margin 4.7%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",F. Oliveira,EN,2023-11-07 14:30:00
+257,202311,12,BBG,EBIT,"EBIT margin 5.0%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",W. Chen,EN,2023-11-08 17:34:00
+258,202311,15,BBG,EBIT,"EBIT margin 4.8%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2023-11-05 12:37:00
+259,202311,1,BBE,EBIT,"EBIT at EUR 7m (6.0% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Home Comfort.",M. Keller,EN,2023-11-03 08:06:00
+260,202311,5,BBE,EBIT,"EBIT margin 6.1%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",J. Hoffmann,EN,2023-11-06 10:20:00
+261,202311,8,BBE,EBIT,"EBIT at EUR 4m (6.4% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Home Comfort.",L. Moreau,EN,2023-11-04 08:47:00
+262,202311,12,BBE,EBIT,"EBIT margin 6.2%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",W. Chen,EN,2023-11-07 15:08:00
+263,202311,13,BBE,EBIT,"EBIT margin 6.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",A. Sharma,EN,2023-11-04 11:01:00
+264,202311,15,BBE,EBIT,"EBIT margin 6.4%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2023-11-09 10:31:00
+265,202312,1,BBM,EBIT,"EBIT at EUR 51m (4.8% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",M. Keller,EN,2023-12-04 09:43:00
+266,202312,6,BBM,EBIT,"EBIT at EUR 16m (5.1% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",K. Nagy,EN,2023-12-06 10:15:00
+267,202312,7,BBM,EBIT,"EBIT margin 4.8%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",P. Novak,EN,2023-12-08 12:14:00
+268,202312,8,BBM,EBIT,"EBIT margin 4.6%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",L. Moreau,EN,2023-12-06 11:34:00
+269,202312,9,BBM,EBIT,"EBIT at EUR 31m (4.7% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",R. Thompson,EN,2023-12-06 13:50:00
+270,202312,10,BBM,EBIT,"EBIT margin 4.9%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",D. Ramirez,EN,2023-12-06 15:29:00
+271,202312,11,BBM,EBIT,"EBIT margin 4.9%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",F. Oliveira,EN,2023-12-06 08:22:00
+272,202312,13,BBM,EBIT,"EBIT at EUR 10m (4.9% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Powertrain Solutions.",A. Sharma,EN,2023-12-05 08:39:00
+273,202312,15,BBM,EBIT,"EBIT margin 4.9%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",G. Lim,EN,2023-12-07 16:31:00
+274,202312,2,BBI,EBIT,"EBIT at EUR 28m (9.5% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",S. Brandt,EN,2023-12-09 14:50:00
+275,202312,9,BBI,EBIT,"EBIT at EUR 8m (8.6% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",R. Thompson,EN,2023-12-07 09:48:00
+276,202312,12,BBI,EBIT,"EBIT at EUR 11m (9.3% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Drive and Control Technology.",W. Chen,EN,2023-12-06 08:20:00
+277,202312,12,BBG,EBIT,"EBIT margin 4.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",W. Chen,EN,2023-12-08 14:13:00
+278,202312,15,BBG,EBIT,"EBIT at EUR 4m (4.5% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in BSH Home Appliances.",G. Lim,EN,2023-12-03 17:34:00
+279,202312,1,BBE,EBIT,"EBIT at EUR 7m (6.4% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Home Comfort.",M. Keller,EN,2023-12-04 10:11:00
+280,202312,5,BBE,EBIT,"EBIT at EUR 11m (6.1% of TNS), below PY; under-absorption from lower volumes, ramp-up costs in Building Technologies.",J. Hoffmann,EN,2023-12-07 11:14:00
+281,202312,8,BBE,EBIT,"EBIT margin 6.5%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",L. Moreau,EN,2023-12-04 15:55:00
+282,202312,12,BBE,EBIT,"EBIT margin 6.4%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",W. Chen,EN,2023-12-09 13:16:00
+283,202312,13,BBE,EBIT,"EBIT margin 6.4%, pressured by wage inflation and negative mix; recovery plan agreed with GM.",A. Sharma,EN,2023-12-08 12:49:00

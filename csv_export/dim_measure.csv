@@ -1,0 +1,16 @@
+measure_code,measure_name,category,sub_category,unit,is_cost,is_balance,sort_order
+TGS,Total Gross Sales,SALES,,EUR m,0,0,10
+TNS,Total Net Sales,SALES,,EUR m,0,0,20
+INT_SALES,Internal Sales,SALES,,EUR m,0,0,30
+STP_REGION,Sales to Third Parties in Region,SALES,,EUR m,0,0,40
+EBIT,EBIT,PNL,,EUR m,0,0,50
+SGA_RD,R&D Cost,SGA,FIXED,EUR m,1,0,60
+SGA_SALES,Sales Cost,SGA,FIXED,EUR m,1,0,70
+SGA_ADMIN,Administration Cost,SGA,FIXED,EUR m,1,0,80
+SGA_VAR,Variable SG&A,SGA,VARIABLE,EUR m,1,0,90
+OTHER_OPINC,Other Operating Income/Expense,SGA,OTHER,EUR m,0,0,100
+AR,Accounts Receivable,NWC,,EUR m,0,1,110
+AP,Accounts Payable,NWC,,EUR m,0,1,120
+INVENTORY,Inventory,NWC,,EUR m,0,1,130
+CAPEX,Capital Expenditure,NWC,,EUR m,1,0,140
+IFCF,Internal Free Cash Flow,NWC,,EUR m,0,0,150

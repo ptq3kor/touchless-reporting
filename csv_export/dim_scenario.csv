@@ -1,0 +1,4 @@
+scenario_code,scenario_name,description
+ACT,Actual,Actuals from SAP / SAC live connection
+CF,Current Forecast,Rolling current forecast for the fiscal year
+BP,Business Plan,"Annual business plan (budget), frozen at year start"

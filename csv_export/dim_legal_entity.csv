@@ -1,0 +1,16 @@
+entity_id,entity_code,entity_name,country_code
+1,RBDE,Robert Bosch GmbH,DE
+2,BRDE,Bosch Rexroth AG,DE
+3,BSHD,BSH Hausgeraete GmbH,DE
+4,PTDE,Robert Bosch Power Tools GmbH,DE
+5,TTDE,Bosch Thermotechnik GmbH,DE
+6,RBHU,Robert Bosch Elektronika Kft.,HU
+7,BDCZ,Bosch Diesel s.r.o.,CZ
+8,RBFR,Robert Bosch France S.A.S.,FR
+9,RBUS,Robert Bosch LLC,US
+10,RBMX,Robert Bosch Mexico S.A. de C.V.,MX
+11,RBBR,Robert Bosch Ltda.,BR
+12,RBCN,Bosch (China) Investment Ltd.,CN
+13,RBIN,Bosch Limited,IN
+14,RBJP,Bosch Corporation,JP
+15,RBSG,Robert Bosch (SEA) Pte Ltd,SG
