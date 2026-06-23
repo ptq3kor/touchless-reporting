@@ -1,5 +1,9 @@
 import { useEffect, useState } from 'react';
 
+// In production (BTP), API_BASE points to the backend app URL.
+// In local dev, it's empty (Vite proxy handles /api -> localhost:8000).
+const API_BASE = import.meta.env.VITE_API_BASE || '';
+
 export function toQuery(filters) {
   const params = new URLSearchParams();
   Object.entries(filters || {}).forEach(([k, v]) => {
@@ -17,7 +21,7 @@ export function useFetch(path, filters) {
   useEffect(() => {
     let alive = true;
     setLoading(true);
-    fetch(qs ? `${path}?${qs}` : path)
+    fetch(qs ? `${API_BASE}${path}?${qs}` : `${API_BASE}${path}`)
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json();
@@ -40,7 +44,7 @@ export function useFetch(path, filters) {
 
 // POST to an SSE endpoint and feed deltas to callbacks.
 export async function streamSSE(path, body, { onDelta, onError, onDone }) {
-  const res = await fetch(path, {
+  const res = await fetch(`${API_BASE}${path}`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(body),

@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Frontend (deployed separately)
+frontend/
+frontend/node_modules/
+
+# Build artifacts
+mta_archives/
+.touchless-reporting_mta_build_tmp/
+node_modules/
+
+# IDE / OS
+.git/
+.DS_Store
+__pycache__/
+
+# Utility scripts not needed at runtime
+generate_db.py
+export_csv.py
+csv_export/
+app.py
+main.py
+query.py
+
+# Config files not needed at runtime
+pyproject.toml
+mta.yaml
+Makefile*
+*.mtar
+
+# Documentation
+*.md

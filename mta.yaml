@@ -1,0 +1,59 @@
+_schema-version: "3.1"
+ID: touchless-reporting
+version: 0.1.0
+description: Touchless Reporting Management Dashboard
+
+parameters:
+  enable-parallel-deployments: true
+
+modules:
+  # ─────────────────────────────────────────────────────────────────────────────
+  # Backend: Python FastAPI application
+  # ─────────────────────────────────────────────────────────────────────────────
+  - name: touchless-reporting-backend
+    type: python
+    path: .
+    parameters:
+      buildpack: python_buildpack
+      memory: 512M
+      disk-quota: 1024M
+      command: python -m uvicorn backend.main:app --host 0.0.0.0 --port 8080
+      health-check-type: http
+      health-check-http-endpoint: /api/health
+    build-parameters:
+      builder: custom
+      commands:
+        - "rm -rf vendor"
+        - "pip download -r requirements.txt -d vendor --platform manylinux2014_x86_64 --python-version 3.12 --only-binary=:all:"
+    properties:
+      MODEL_FARM_API_KEY: "293d0636aa564162a6a4f2bf4178f650"
+      AZURE_OPENAI_ENDPOINT: "https://aoai-farm.bosch-temp.com/api"
+      MODEL_DEPLOYMENT_NAME: "askbosch-prod-farm-openai-gpt-4o-mini-2024-07-18"
+      AZURE_OPENAI_API_VERSION: "2024-08-01-preview"
+    provides:
+      - name: backend-api
+        properties:
+          url: "${default-url}"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # Frontend: React (Vite build) served via nginx staticfile buildpack
+  # ─────────────────────────────────────────────────────────────────────────────
+  - name: touchless-reporting-frontend
+    type: staticfile
+    path: frontend
+    parameters:
+      buildpack: staticfile_buildpack
+      memory: 128M
+      disk-quota: 256M
+    build-parameters:
+      builder: custom
+      build-result: dist
+      commands:
+        - npm install --include=dev
+        - npm run build
+    requires:
+      - name: backend-api
+        group: destinations
+        properties:
+          name: backend
+          url: "~{url}"

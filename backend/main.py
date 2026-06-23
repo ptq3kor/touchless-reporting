@@ -7,7 +7,11 @@ app = FastAPI(title="Touchless Reporting API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://*.cfapps.eu10.hana.ondemand.com",
+    ],
+    allow_origin_regex=r"https://.*\.cfapps\.eu10\.hana\.ondemand\.com",
     allow_methods=["*"],
     allow_headers=["*"],
 )
