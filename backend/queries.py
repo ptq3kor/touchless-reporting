@@ -1,5 +1,4 @@
 """Reusable query functions shared by the REST routers and the AI agent tools."""
-import sqlite3
 from typing import Optional
 
 from .db import get_conn
@@ -116,7 +115,7 @@ def sales_data(conn, rf: Resolved) -> dict:
         FROM fact_financials f JOIN dim_business_sector s ON s.sector_code = f.sector_code
         WHERE f.scenario_code = 'ACT' AND f.measure_code = 'TNS'
           AND f.period_id IN (:pid, :py_pid) {rf_all.where}
-        GROUP BY f.sector_code ORDER BY s.sort_order
+        GROUP BY f.sector_code, s.sector_name, s.sort_order ORDER BY s.sort_order
     """
     breakdown = [
         {"sector": r["sector_code"], "name": r["sector_name"],
@@ -253,7 +252,7 @@ def headcount_data(conn, rf: Resolved) -> dict:
                    SUM(pc_fte_direct + pc_fte_indirect) pc_fte
             FROM fact_headcount f JOIN dim_period p ON p.period_id = f.period_id
             WHERE f.scenario_code = 'ACT' AND f.period_id BETWEEN :lo AND :hi {rf.where}
-            GROUP BY f.period_id ORDER BY f.period_id
+            GROUP BY f.period_id, p.month_name, p.year ORDER BY f.period_id
         """
         for r in conn.execute(sql, {**rf.params, "lo": periods[0], "hi": periods[-1]}):
             trend.append({"period": r["period_id"],

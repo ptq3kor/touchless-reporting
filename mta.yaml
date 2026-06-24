@@ -10,7 +10,7 @@ modules:
   # ─────────────────────────────────────────────────────────────────────────────
   # Backend: Python FastAPI application
   # ─────────────────────────────────────────────────────────────────────────────
-  - name: touchless-reporting-backend
+  - name: touchless-reporting-backend-hana
     type: python
     path: .
     parameters:
@@ -25,11 +25,36 @@ modules:
       commands:
         - "rm -rf vendor"
         - "pip download -r requirements.txt -d vendor --platform manylinux2014_x86_64 --python-version 3.12 --only-binary=:all:"
+      ignore:
+        - ".venv/"
+        - "frontend/"
+        - "node_modules/"
+        - "mta_archives/"
+        - ".touchless-reporting_mta_build_tmp/"
+        - ".git/"
+        - "csv_export/"
+        - "touchless_reporting.db"
+        - "touchless_reporting.db-shm"
+        - "touchless_reporting.db-wal"
+        - "mta-op-*/"
+        - "generate_db.py"
+        - "export_csv.py"
+        - "app.py"
+        - "main.py"
+        - "query.py"
+        - "*.md"
+        - "*.mtar"
     properties:
       MODEL_FARM_API_KEY: "293d0636aa564162a6a4f2bf4178f650"
       AZURE_OPENAI_ENDPOINT: "https://aoai-farm.bosch-temp.com/api"
       MODEL_DEPLOYMENT_NAME: "askbosch-prod-farm-openai-gpt-4o-mini-2024-07-18"
       AZURE_OPENAI_API_VERSION: "2024-08-01-preview"
+      HANA_HOST: "b0c282de-a26d-4118-8733-a28522785163.hna1.prod-eu10.hanacloud.ondemand.com"
+      HANA_PORT: "443"
+      HANA_USER: "USR_8DWET3OWDG9F4N4S3242VA7VM"
+      HANA_PASSWORD: "Jm0dsBG2-C2y5.83FzWfhbJdCD8PheMKjaNJiP8bv9w6oLdyv6QSGxITUjTploxmSDnVTX3UT_R4UZyc4nj.slyyp01y11_tq6tHg3NMhsGPQsBxCxqILaPrpF2TZIK0"
+      HANA_SCHEMA: "USR_8DWET3OWDG9F4N4S3242VA7VM"
+      HANA_ENCRYPT: "true"
     provides:
       - name: backend-api
         properties:
@@ -38,7 +63,7 @@ modules:
   # ─────────────────────────────────────────────────────────────────────────────
   # Frontend: React (Vite build) served via nginx staticfile buildpack
   # ─────────────────────────────────────────────────────────────────────────────
-  - name: touchless-reporting-frontend
+  - name: touchless-reporting-frontend-hana
     type: staticfile
     path: frontend
     parameters:

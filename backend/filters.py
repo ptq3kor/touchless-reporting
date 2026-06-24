@@ -1,7 +1,10 @@
 """Shared filter contract: query params -> resolved SQL fragments and metadata."""
-import sqlite3
+from __future__ import annotations
 from dataclasses import dataclass, field
-from typing import Literal, Optional
+from typing import TYPE_CHECKING, Literal, Optional
+
+if TYPE_CHECKING:
+    from .db import ConnectionWrapper
 
 from fastapi import Query
 from pydantic import BaseModel
@@ -68,7 +71,7 @@ class Resolved:
         }
 
 
-def _scoped_entities(conn: sqlite3.Connection, fp: FilterParams):
+def _scoped_entities(conn: "ConnectionWrapper", fp: FilterParams):
     """Resolve geography/entity filters to entity ids and their currency set.
 
     Returns (entity_ids or None, set of currency codes in scope).
@@ -99,7 +102,7 @@ def _scoped_entities(conn: sqlite3.Connection, fp: FilterParams):
     return ([r["entity_id"] for r in rows] if restricted else None), currencies
 
 
-def resolve(conn: sqlite3.Connection, fp: FilterParams, sector_filter: bool = True) -> Resolved:
+def resolve(conn: "ConnectionWrapper", fp: FilterParams, sector_filter: bool = True) -> Resolved:
     period_id = fp.year * 100 + fp.month
     entity_ids, currencies = _scoped_entities(conn, fp)
 

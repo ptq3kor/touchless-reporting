@@ -3,12 +3,11 @@
 
 # Frontend (deployed separately)
 frontend/
-frontend/node_modules/
+node_modules/
 
 # Build artifacts
 mta_archives/
 .touchless-reporting_mta_build_tmp/
-node_modules/
 
 # IDE / OS
 .git/
@@ -23,6 +22,11 @@ app.py
 main.py
 query.py
 
+# SQLite DB (using HANA now)
+touchless_reporting.db
+touchless_reporting.db-shm
+touchless_reporting.db-wal
+
 # Config files not needed at runtime
 pyproject.toml
 mta.yaml
@@ -31,3 +35,6 @@ Makefile*
 
 # Documentation
 *.md
+
+# Logs
+mta-op-*/

@@ -3,6 +3,7 @@
 #
 # This locks exact versions for reproducible installs. The loose, top-level
 # dependencies live in backend/requirements.txt; this file is the resolved lock.
+hdbcli==2.29.23
 agent-framework-core==1.8.1
 agent-framework-openai==1.8.1
 annotated-doc==0.0.4

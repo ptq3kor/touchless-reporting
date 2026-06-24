@@ -1,6 +1,8 @@
 fastapi
 uvicorn[standard]
 pydantic
+hdbcli
+python-dotenv
 agent-framework-core
 agent-framework-openai
 azure-identity
